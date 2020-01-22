@@ -1,5 +1,4 @@
 ini adalah baris pertama
 dan ini adalah baris kedua
-ini juga pada baris ke tiga ditambahkan
 dan ini merupakan perubahan baris ke empat
 juga ditambahkan baris kelima
