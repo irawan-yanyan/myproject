@@ -2,3 +2,5 @@ ini adalah baris pertama
 dan ini adalah baris kedua
 dan ini merupakan perubahan baris ke empat
 juga ditambahkan baris kelima
+ini baris ke enam dari testgit220120
+juga sama baris ke tujuh dari testgit220120
