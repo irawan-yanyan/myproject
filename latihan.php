@@ -5,4 +5,5 @@
   echo "24 april 2021";
   echo "project manager & programmer IT";
   echo "keep up to time management";
+  echo "pasion for javascript ES 6";
 ?>
